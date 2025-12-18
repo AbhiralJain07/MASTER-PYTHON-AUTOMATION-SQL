@@ -1,4 +1,3 @@
-<!--  -->
 # Day 3 — Web Scraping & Web Automation (Python)
 
 ## What I Learned Today
@@ -211,3 +210,6 @@ Today I learned:
 ## Next Step
 
 ➡️ **Day 4 — SQL Basics & Python Database Automation**
+
+**Author**: Abhiral Jain
+**Roadmap**: 6-Day Skill Learning Challenge
